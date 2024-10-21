@@ -1,0 +1,6 @@
+_build
+.ipynb_*
+*.root
+
+.DS_Store
+

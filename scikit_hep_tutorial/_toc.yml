@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 00-bienvenida
+parts:
+- caption: Lecciones
+  chapters:
+  - file: 01-introduccion
+  - file: 02-uproot
+  - file: 03-ttree
+  - file: 04-awkward
+  - file: 05-histogramas
+  - file: 06-vectores-lorentz
+  - file: 07-mas-herramientas
