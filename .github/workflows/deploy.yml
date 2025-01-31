@@ -37,7 +37,7 @@ jobs:
           activate-environment: skhep-tutorial
       - name: Build the book
         run: |
-          jupyter-book build scikit_hep_tutorial
+          jupyter-book build -W scikit_hep_tutorial
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
