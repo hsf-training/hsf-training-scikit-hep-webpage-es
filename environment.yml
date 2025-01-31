@@ -1,7 +1,6 @@
 name: skhep-tutorial
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - jupyter-book=1.0.3
   - uproot=5.4.1
@@ -18,3 +17,8 @@ dependencies:
   - aiohttp=3.10.10
   - python=3.12
   - fastjet=3.4.0.6
+  - awkward-pandas=2023.8.0
+  - zfit=0.24.3
+  - fastjet=3.4.0.6
+  - pip:
+    - tf-keras==2.18.0
