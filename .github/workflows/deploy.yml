@@ -39,7 +39,7 @@ jobs:
         run: |
           jupyter-book build -W scikit_hep_tutorial
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: "scikit_hep_tutorial/_build/html"
 
