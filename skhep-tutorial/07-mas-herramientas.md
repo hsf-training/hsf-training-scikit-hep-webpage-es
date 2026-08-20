@@ -4,13 +4,15 @@ Las herramientas descritas en estas lecciones están destinadas a ser utilizadas
 
 Puedes usar cualquiera de ellas en un trabajo GRID ordinario (u otro procesador por lotes).
 
-Sin embargo, el [proyecto Coffea](https://github.com/CoffeaTeam) ([documentación](https://coffeateam.github.io/coffea/)) está construyendo un ecosistema *distribuido* que integra el análisis en Python con granjas de análisis de datos. Este es un tema demasiado amplio para cubrir aquí, pero consulta el software y únete a las [reuniones de usuarios de Coffea](https://indico.cern.ch/category/11674/) si estás interesado.
+Sin embargo, el [proyecto Coffea](https://github.com/CoffeaTeam) ([documentación](https://coffea-hep.readthedocs.io/en/latest/)) está construyendo un ecosistema *distribuido* que integra el análisis en Python con granjas de análisis de datos. Este es un tema demasiado amplio para cubrir aquí, pero consulta el software y únete a las [reuniones de usuarios de Coffea](https://indico.cern.ch/category/11674/) si estás interesado/a.
+
+![coffea](img/coffea_logo.png)
 
 # Recursos de Scikit-HEP
 
 - [scikit-hep.org](https://scikit-hep.org)
 - Uproot [GitHub](https://github.com/scikit-hep/uproot5), [documentación](https://uproot.readthedocs.io)
-- Awkward Array [GitHub](https://github.com/scikit-hep/awkward-1.0), [documentación](https://awkward-array.org)
+- Awkward Array [GitHub](https://github.com/scikit-hep/awkward), [documentación](https://awkward-array.org)
 - boost-histogram [GitHub](https://github.com/scikit-hep/boost-histogram), [documentación](https://boost-histogram.readthedocs.io)
 - hist [GitHub](https://github.com/scikit-hep/hist), [documentación](https://hist.readthedocs.io)
 - Unified Histogram Interface [GitHub](https://github.com/scikit-hep/uhi), [documentación](https://uhi.readthedocs.io)
@@ -32,4 +34,4 @@ Sin embargo, el [proyecto Coffea](https://github.com/CoffeaTeam) ([documentació
 
 y finalmente
 
-- cookie [GitHub](https://github.com/scientific-python/cookie), [documentación](https://learn.scientific-python.org/development), una plantilla para crear la tuya propia...
+- cookie [GitHub](https://github.com/scientific-python/cookie), [documentación](https://learn.scientific-python.org/development), una plantilla para crear tu propio paquete...

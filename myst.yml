@@ -1,0 +1,32 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8cf839fd-572a-465c-a083-1693c3e36db4
+  title: Tutorial de Scikit-HEP
+  # description:
+  # keywords: []
+  authors:
+    - name: HSF Training
+  copyright: '2025'
+  github: https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: README.md
+    - file: configuracion.md
+    - file: skhep-tutorial/01-introduccion.ipynb
+    - file: skhep-tutorial/02-uproot.ipynb
+    - file: skhep-tutorial/03-ttree.ipynb
+    - file: skhep-tutorial/04-awkward.ipynb
+    - file: skhep-tutorial/05-histogramas.ipynb
+    - file: skhep-tutorial/06-vectores-lorentz.ipynb
+    - file: skhep-tutorial/07-mas-herramientas.md
+
+site:
+  template: book-theme
+  options:
+    logo: skhep-tutorial/img/hsf_logo.png
+    analytics_plausible: hepsoftwarefoundation.org
+    folders: true
