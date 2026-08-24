@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Por favor cita los siguientes trabajos si usas este software."
+type: software
+title: "Scikit-HEP Tutorial (traducción al español)"
+abstract: "Tutorial de Scikit-HEP: una colección de paquetes para el análisis de física de partículas en Python. Traducción al español."
+authors:
+- family-names: "Pivarski"
+  given-names: "Jim"
+  orcid: "https://orcid.org/0000-0002-6649-343X"
+  affiliation: "Princeton University"
+- family-names: "Rios Tascon"
+  given-names: "Andres"
+  orcid: "https://orcid.org/0000-0003-3282-2634"
+repository-code: "https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es"
+url: "https://hsf-training.github.io/hsf-training-scikit-hep-webpage-es/"
+keywords:
+  - scikit-hep
+  - python
+  - training
+license: "CC-BY-4.0"
