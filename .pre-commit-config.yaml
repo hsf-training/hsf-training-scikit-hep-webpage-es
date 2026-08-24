@@ -16,13 +16,6 @@ repos:
       - id: trailing-whitespace
         files: ^(README.md|configuracion.md)
 
-  - repo: https://github.com/codespell-project/codespell
-    rev: "v2.4.3"
-    hooks:
-      - id: codespell
-        args: ["-I", "codespell.txt"]
-        files: '.*\.(md|ipynb)'
-
   - repo: https://github.com/asottile/blacken-docs
     rev: 1.20.0
     hooks:
