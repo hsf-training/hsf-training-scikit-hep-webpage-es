@@ -16,7 +16,7 @@ vendor/
 Gemfile.lock
 .*history
 
-# MyST build outputs
+# Archivos generados por la construcción de MyST
 _build
 
 *.root

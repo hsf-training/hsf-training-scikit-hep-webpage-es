@@ -2,7 +2,7 @@
 
 Las herramientas descritas en estas lecciones están destinadas a ser utilizadas *dentro* de un script que se escale para conjuntos de datos grandes.
 
-Puedes usar cualquiera de ellas en un trabajo GRID ordinario (u otro procesador por lotes).
+Puedes usar cualquiera de ellas en un trabajo ordinario en el GRID (u otro sistema de procesamiento por lotes).
 
 Sin embargo, el [proyecto Coffea](https://github.com/CoffeaTeam) ([documentación](https://coffea-hep.readthedocs.io/en/latest/)) está construyendo un ecosistema *distribuido* que integra el análisis en Python con granjas de análisis de datos. Este es un tema demasiado amplio para cubrir aquí, pero consulta el software y únete a las [reuniones de usuarios de Coffea](https://indico.cern.ch/category/11674/) si estás interesado/a.
 

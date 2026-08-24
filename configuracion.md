@@ -5,7 +5,7 @@
 Este tutorial utiliza una muestra de los paquetes del [proyecto Scikit-HEP](https://scikit-hep.org/) (Uproot, Awkward Array, hist, Vector, zfit, iminuit, Particle, fastjet), que son todos componentes que podrías o no usar en tu análisis, así como Python 3, NumPy y una variedad de otras librerías populares (Pandas, Matplotlib, JupyterLab).
 
 En lugar de pedirte que los instales todos, ofrecemos dos formas diferentes de ejecutar todo en tu navegador: GitHub Codespaces y Binder.
-Recomendamos que uses GitHub Codespaces (lee las instrucciones a continuación). Si esta opción no es viable para ti, puedes usar Binder, aunque ten en cuenta que los recursos podrían ser muy limitados.
+Recomendamos que uses GitHub Codespaces (consulta las instrucciones a continuación). Si esta opción no es viable para ti, puedes usar Binder, aunque ten en cuenta que los recursos podrían ser muy limitados.
 
 ### GitHub Codespaces
 
@@ -34,9 +34,9 @@ Use Cmd/Ctrl + Shift + P -> View Creation Log to see full logs
   › python3 -m pip install -r requirements.txt
 ```
 
-la instalación sigue en progreso. Esto tomará alrededor de 5 minutos, así que ten paciencia.
+la instalación sigue en curso. Esto tomará alrededor de 5 minutos, así que ten paciencia.
 
-Una vez que haya terminado, deberías ver solamente un prompt vacío como este:
+Una vez que haya terminado, deberías ver solamente una línea de comandos vacía como esta:
 
 ```
 @klieret ➜ /workspaces/hsf-training-scikit-hep-webpage-es (main) $
@@ -44,7 +44,7 @@ Una vez que haya terminado, deberías ver solamente un prompt vacío como este:
 
 Espera unos segundos para asegurarte de que no se ejecute nada más.
 
-¡Estás listo/a para comenzar 🎉!
+¡Estás listo/a para comenzar! 🎉
 
 Puedes ver y ejecutar los notebooks desde la interfaz de VSCode. Sin embargo, si prefieres usar JupyterLab, puedes añadir `?editor=jupyter` a la URL en tu navegador, de modo que quede así: `https://<id-de-tu-codespace>.github.dev/?editor=jupyter`. Alternativamente, puedes ir a [tus codespaces](https://github.com/codespaces/), buscar el codespace que acabas de crear, hacer clic en los tres puntos del lado derecho y seleccionar "Open in JupyterLab".
 
@@ -61,7 +61,7 @@ Simplemente haz clic en el siguiente botón:
 
 ## Después del tutorial
 
-Si deseas instalar algunos de estos paquetes en tu propio computador o en el de tu laboratorio, te recomendamos [Miniforge](https://github.com/conda-forge/miniforge) (o Anaconda/Miniconda con el [canal conda-forge](https://conda-forge.org/docs/user/introduction.html#how-can-i-install-packages-from-conda-forge)). Este método también proporciona una manera de [instalar ROOT en el mismo entorno](https://github.com/conda-forge/root-feedstock#readme). Para configurar el entorno, utiliza el archivo [environment.yml](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/blob/main/environment.yml) que está en la [raíz](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es) de este repositorio, así:
+Si deseas instalar algunos de estos paquetes en tu propia computadora o en la de tu laboratorio, te recomendamos [Miniforge](https://github.com/conda-forge/miniforge) (o Anaconda/Miniconda con el [canal conda-forge](https://conda-forge.org/docs/user/introduction.html#how-can-i-install-packages-from-conda-forge)). Este método también proporciona una manera de [instalar ROOT en el mismo entorno](https://github.com/conda-forge/root-feedstock#readme). Para configurar el entorno, utiliza el archivo [environment.yml](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/blob/main/environment.yml) que está en la [raíz](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es) de este repositorio, así:
 
 ```bash
 conda env create -f environment.yml
@@ -89,4 +89,4 @@ pip install uproot awkward   # ... ¿otros?
 
 Todos los paquetes usados en este tutorial están disponibles para Windows excepto `xrootd`, que es el que permite a Uproot leer archivos a través de URLs `root://`. Aun así puedes seguir el tutorial completo: las lecciones que abren un archivo remoto con `root://` también dan una URL `https://` para el mismo archivo, así que descomenta esa línea en su lugar.
 
-`pip install -r requirements.txt` omite `xrootd` automáticamente en Windows. El archivo `environment.yml` de conda no lo hace, porque los archivos de entorno de conda no pueden expresar dependencias específicas de cada plataforma, así que en Windows usa pip, o instala dentro de [WSL](https://learn.microsoft.com/es-es/windows/wsl/install), o usa GitHub Codespaces o Binder como se describió arriba.
+`pip install -r requirements.txt` omite `xrootd` automáticamente en Windows. El archivo `environment.yml` de conda no lo hace, porque los archivos de entorno de conda no pueden expresar dependencias específicas de cada plataforma, así que en Windows usa pip, o instala dentro de [WSL](https://learn.microsoft.com/windows/wsl/install), o usa GitHub Codespaces o Binder como se describió arriba.

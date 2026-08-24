@@ -1,53 +1,54 @@
-## Instructional Material
+## Material didáctico
 
-All HEP Software Foundation instructional material is
-made available under the [Creative Commons Attribution
-license][cc-by-human]. The following is a human-readable summary of
-(and not a substitute for) the [full legal text of the CC BY 4.0
-license][cc-by-legal].
+Todo el material didáctico de la HEP Software Foundation se publica bajo la
+[licencia Creative Commons Atribución][cc-by-human]. Lo que sigue es un resumen
+legible por humanos de (y no un sustituto de) el [texto legal completo de la
+licencia CC BY 4.0][cc-by-legal].
 
 
-You are free:
+Usted es libre de:
 
-* to **Share**---copy and redistribute the material in any medium or format
-* to **Adapt**---remix, transform, and build upon the material
+* **Compartir**---copiar y redistribuir el material en cualquier medio o formato
+* **Adaptar**---remezclar, transformar y construir a partir del material
 
-for any purpose, even commercially.
+para cualquier finalidad, incluso comercial.
 
-The licensor cannot revoke these freedoms as long as you follow the
-license terms.
+El licenciante no puede revocar estas libertades mientras usted cumpla los
+términos de la licencia.
 
-Under the following terms:
+Bajo los siguientes términos:
 
-* **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © Software
-  Carpentry and, where practical, linking to
-  http://hepsoftwarefoundation.org/), provide a [link to the
-  license][cc-by-human], and indicate if changes were made. You may do
-  so in any reasonable manner, but not in any way that suggests the
-  licensor endorses you or your use.
+* **Atribución**---Usted debe dar crédito de manera adecuada (mencionando que
+  su trabajo se deriva de un trabajo cuyo copyright pertenece a Software
+  Carpentry y, cuando sea posible, enlazando a
+  http://hepsoftwarefoundation.org/), brindar un [enlace a la
+  licencia][cc-by-human] e indicar si se han realizado cambios. Puede hacerlo
+  de cualquier manera razonable, pero no de una manera que sugiera que el
+  licenciante lo respalda a usted o su uso.
 
-**No additional restrictions**---You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the license permits.  With the understanding that:
+**No hay restricciones adicionales**---Usted no puede aplicar términos legales
+ni medidas tecnológicas que restrinjan legalmente a otros hacer cualquier cosa
+que la licencia permita. Con el entendimiento de que:
 
-Notices:
+Avisos:
 
-* You do not have to comply with the license for elements of the
-  material in the public domain or where your use is permitted by an
-  applicable exception or limitation.
-* No warranties are given. The license may not give you all of the
-  permissions necessary for your intended use. For example, other
-  rights such as publicity, privacy, or moral rights may limit how you
-  use the material.
+* Usted no tiene que cumplir con la licencia para aquellos elementos del
+  material que estén en el dominio público o cuando su uso esté permitido por
+  una excepción o limitación aplicable.
+* No se dan garantías. La licencia podría no darle todos los permisos
+  necesarios para su uso previsto. Por ejemplo, otros derechos como los de
+  publicidad, privacidad o derechos morales pueden limitar la forma en que
+  utilice el material.
 
 
 ### Software
 
-Except where otherwise noted, the example programs and other software
-provided by Software Carpentry and Data Carpentry are made available under the
-[OSI][osi]-approved
-[MIT license][mit-license].
+Salvo que se indique lo contrario, los programas de ejemplo y el demás software
+proporcionados por Software Carpentry y Data Carpentry se publican bajo la
+[licencia MIT][mit-license], aprobada por la [OSI][osi].
+
+El texto de la licencia MIT se reproduce a continuación en inglés, que es la
+única versión con validez legal:
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -69,7 +70,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-[cc-by-human]: https://creativecommons.org/licenses/by/4.0/
-[cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
+[cc-by-human]: https://creativecommons.org/licenses/by/4.0/deed.es
+[cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode.es
 [mit-license]: https://opensource.org/licenses/mit-license.html
 [osi]: https://opensource.org

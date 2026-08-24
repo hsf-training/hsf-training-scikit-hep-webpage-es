@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "Please cite the following works when using this software."
+message: "Por favor cita los siguientes trabajos si usas este software."
 type: software
 title: "Scikit-HEP Tutorial (traducción al español)"
-abstract: "Tutorial for Scikit-HEP: A collection of packages for particle physics analyses in Python. Spanish translation."
+abstract: "Tutorial de Scikit-HEP: una colección de paquetes para el análisis de física de partículas en Python. Traducción al español."
 authors:
 - family-names: "Pivarski"
   given-names: "Jim"

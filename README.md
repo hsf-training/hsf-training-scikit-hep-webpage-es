@@ -1,7 +1,7 @@
 # Tutorial de Scikit-HEP
 
-[![Build and Deploy Book](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/actions/workflows/deploy.yml/badge.svg)](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/actions/workflows/deploy.yml)
-[![HSF Training Center](https://img.shields.io/badge/HSF%20Training%20Center-browse-ff69b4)](https://hepsoftwarefoundation.org/training/curriculum.html)
+[![Construcción y despliegue del libro](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/actions/workflows/deploy.yml/badge.svg)](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/actions/workflows/deploy.yml)
+[![HSF Training Center](https://img.shields.io/badge/HSF%20Training%20Center-explorar-ff69b4)](https://hepsoftwarefoundation.org/training/curriculum.html)
 
 Este es un tutorial sobre [Scikit-HEP](https://scikit-hep.org), una colección de paquetes para el análisis de física de partículas en Python.
 
