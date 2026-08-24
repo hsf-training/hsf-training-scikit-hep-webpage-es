@@ -9,9 +9,11 @@ Recomendamos que uses GitHub Codespaces (lee las instrucciones a continuación).
 
 ### GitHub Codespaces
 
+<!--
 <p align="center">
   <iframe width="427" height="251" src="https://www.youtube.com/embed/gcAuyqW4QRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+-->
 
 Para usar GitHub Codespaces, necesitas crear una cuenta en [GitHub](https://github.com) (¡es gratis! También puedes unirte a su programa educativo para obtener más beneficios gratuitos).
 

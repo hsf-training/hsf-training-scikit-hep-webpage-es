@@ -7,7 +7,7 @@ project:
   # keywords: []
   authors:
     - name: HSF Training
-  copyright: '2025'
+  copyright: '2026'
   github: https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es
   exports:
     - format: pdf
