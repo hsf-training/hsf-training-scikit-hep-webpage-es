@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "Si usas esta lección, por favor cítala como se indica a continuación."
+type: software
+title: "Tutorial de Scikit-HEP (traducción al español)"
+abstract: "Traducción al español de una lección de formación sobre Scikit-HEP, una colección de paquetes para el análisis de física de partículas en Python. Forma parte del currículo de formación del HSF. Traducida por Andrés Ríos Tascón a partir de la versión original en inglés."
+authors:
+  - family-names: "Pivarski"
+    given-names: "Jim"
+    orcid: "https://orcid.org/0000-0002-6649-343X"
+  - family-names: "Rios Tascon"
+    given-names: "Andres"
+    orcid: "https://orcid.org/0000-0003-3282-2634"
+  - family-names: "Deconinck"
+    given-names: "Wouter"
+    orcid: "https://orcid.org/0000-0003-4033-6716"
+  - family-names: "Lieret"
+    given-names: "Kilian"
+    orcid: "https://orcid.org/0000-0003-2792-7511"
+  - family-names: "Schreiner"
+    given-names: "Henry"
+    orcid: "https://orcid.org/0000-0002-7833-783X"
+doi: "10.5281/zenodo.22087055"
+repository-code: "https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es"
+repository-artifact: "https://doi.org/10.5281/zenodo.22087055"
+url: "https://hsf-training.github.io/hsf-training-scikit-hep-webpage-es/"
+keywords:
+  - scikit-hep
+  - python
+  - training
+  - tutorial
+  - high-energy physics
+  - particle physics
+  - uproot
+  - awkward-array
+  - histograms
+  - columnar analysis
+  - español
+  - física de altas energías
+  - física de partículas
+license: "CC-BY-4.0"
