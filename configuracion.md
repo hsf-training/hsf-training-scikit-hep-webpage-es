@@ -61,7 +61,7 @@ Simplemente haz clic en el siguiente botón:
 
 ## Después del tutorial
 
-Si deseas instalar algunos de estos paquetes en tu propia computadora o en la de tu laboratorio, te recomendamos [Miniforge](https://github.com/conda-forge/miniforge) (o Anaconda/Miniconda con el [canal conda-forge](https://conda-forge.org/docs/user/introduction.html#how-can-i-install-packages-from-conda-forge)). Este método también proporciona una manera de [instalar ROOT en el mismo entorno](https://github.com/conda-forge/root-feedstock#readme). Para configurar el entorno, utiliza el archivo [environment.yml](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/blob/main/environment.yml) que está en la [raíz](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es) de este repositorio, así:
+Si deseas instalar algunos de estos paquetes en tu propia computadora o en la de tu laboratorio, te recomendamos [Miniforge](https://github.com/conda-forge/miniforge) (o Anaconda/Miniconda con el [canal conda-forge](https://conda-forge.org/docs/user/introduction/)). Este método también proporciona una manera de [instalar ROOT en el mismo entorno](https://github.com/conda-forge/root-feedstock#readme). Para configurar el entorno, utiliza el archivo [environment.yml](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/blob/main/environment.yml) que está en la [raíz](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es) de este repositorio, así:
 
 ```bash
 conda env create -f environment.yml

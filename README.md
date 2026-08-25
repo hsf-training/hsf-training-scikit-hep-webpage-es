@@ -2,6 +2,7 @@
 
 [![Construcción y despliegue del libro](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/actions/workflows/deploy.yml/badge.svg)](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/actions/workflows/deploy.yml)
 [![HSF Training Center](https://img.shields.io/badge/HSF%20Training%20Center-explorar-ff69b4)](https://hepsoftwarefoundation.org/training/curriculum.html)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22087055.svg)](https://doi.org/10.5281/zenodo.22087055)
 
 Este es un tutorial sobre [Scikit-HEP](https://scikit-hep.org), una colección de paquetes para el análisis de física de partículas en Python.
 
@@ -34,7 +35,7 @@ Una lista de los colaboradores de la lección se puede encontrar en [AUTHORS](ht
 
 ## Citación
 
-Para citar este tutorial, consulta el archivo [CITATION](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/blob/main/CITATION)
+Para citar este tutorial, consulta el archivo [CITATION.cff](https://github.com/hsf-training/hsf-training-scikit-hep-webpage-es/blob/main/CITATION.cff), o usa el botón "Cite this repository" en la barra lateral.
 
 [jpivarski]: https://github.com/jpivarski/
 [ariostas]: https://github.com/ariostas/
