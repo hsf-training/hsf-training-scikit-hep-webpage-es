@@ -122,7 +122,7 @@ para que ambas versiones se mantengan sincronizadas.
 
 Más información sobre cómo contribuir o cómo contactarnos: [Inicio de HSF training][hsf-training]
 
-[hsf-training-issues]: https://github.com/issues?q=user%3Ahsf-training+is%3Aopen
+[hsf-training-issues]: https://github.com/search?q=org%3Ahsf-training+is%3Aissue+is%3Aopen&type=issues
 [hsf-training]: https://hepsoftwarefoundation.org/activities/training.html
 [email]: https://groups.google.com/g/hsf-training-wg
 [github]: https://github.com
@@ -130,4 +130,4 @@ Más información sobre cómo contribuir o cómo contactarnos: [Inicio de HSF tr
 [github-join]: https://github.com/join
 [how-contribute]: https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 [issues]: https://guides.github.com/features/issues/
-[hsf-training-gfis]: https://github.com/issues?q=is%3Aissue+is%3Aopen+archived%3Afalse+sort%3Aupdated-desc+label%3A%22good+first+issue%22+org%3Ahsf-training
+[hsf-training-gfis]: https://github.com/search?q=org%3Ahsf-training+label%3A%22good+first+issue%22+is%3Aissue+is%3Aopen+archived%3Afalse&type=issues
