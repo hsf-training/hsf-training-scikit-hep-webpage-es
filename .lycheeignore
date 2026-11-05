@@ -1,0 +1,7 @@
+# Data files that the notebooks open with uproot. Both download fine (and the
+# build downloads them when it executes the notebooks), but lychee reads the
+# notebook JSON as plain text and turns the closing `\"` into a trailing `/`.
+https://root\.cern/files/rootbench/Run2012BC_DoubleMuParked_Muons\.root
+https://zenodo\.org/records/21777191/files/pythia_ppZee_run17emb\.picoDst\.root
+# GitHub's sign-up page returns 403 to bots but works in a browser.
+^https://github\.com/join$
